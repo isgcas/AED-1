@@ -4,6 +4,33 @@
 #include <string.h>
 #include <locale.h>
 
+void exercicio04a();
+void exercicio04b();
+void exercicio04c();
+void exercicio04d();
+void exercicio04e();
+void exercicio04f();
+void exercicio04g();
+void exercicio04h();
+void exercicio04i();
+void exercicio04j();
+void exercicio0501();
+void exercicio0502();
+void exercicio0503();
+void exercicio0504();
+void exercicio0505();
+void exercicio0506();
+void exercicio0507();
+void exercicio0508();
+void exercicio0509();
+void exercicio0510();
+void exercicio0511();
+void exercicio0512();
+void exercicio0513();
+void exercicio0514();
+void exercicio0515();
+
+
 void menu()
 {
 
