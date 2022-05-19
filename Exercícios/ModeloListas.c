@@ -15,6 +15,8 @@ void exercicio08();
 void exercicio09();
 void exercicio10();
 
+//variáveis globais vão aqui
+
 void menu()
 {
     printf("Isabela Gontijo de Castro - Lista x\n\nExercícios:\n\n");
